@@ -1,4 +1,4 @@
-# *** Interdependent Superconducting Nnetworks *** #
+# === Interdependent Superconducting Networks === #
 
 The files in this folder refer to the thermally interdependent resistively shunted Josephson junction (RSJJ) networks studied in the article entitled "Interdependent Superconducting Networks" and freely accessible at https://doi.org/10.48550/arXiv.2207.01669. 
 
